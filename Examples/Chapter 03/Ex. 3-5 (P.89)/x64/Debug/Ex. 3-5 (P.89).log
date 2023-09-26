@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\신민기\source\repos\Ex. 3-5 (P.89)\main.cpp(5,11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Ex. 3-5 (P.89).vcxproj -> C:\Users\신민기\source\repos\Ex. 3-5 (P.89)\x64\Debug\Ex. 3-5 (P.89).exe
